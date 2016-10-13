@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>753688380568-79bf8qrqb6mrlrohlifndhoa0ajk19vr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.753688380568-79bf8qrqb6mrlrohlifndhoa0ajk19vr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBFPT2GBmhaXlxnI_B7u-3-Bk9I-2CXyvU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>753688380568</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.WillisProject</string>
+	<key>PROJECT_ID</key>
+	<string>willisproject-cbd8a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>willisproject-cbd8a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:753688380568:ios:de7f069c62973e7f</string>
+	<key>DATABASE_URL</key>
+	<string>https://willisproject-cbd8a.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,3 @@
+rootProject.name = 'WillisProject'
+
+include ':app'
